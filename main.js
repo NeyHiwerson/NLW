@@ -3,7 +3,7 @@
     //alert(name)
     const links = {
       github:"NeyHiwerson",
-      youtube : "UCWFhWfv5MqJKRvNCwYbYDtw",
+      youtube : "/channel/UCWFhWfv5MqJKRvNCwYbYDtw",
       facebook : "ney.hiwersonmissiasribeiro",
       instagran : "hiwersonmissiasribeiro",
       twitter : "hiwerson"
