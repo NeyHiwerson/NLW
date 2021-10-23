@@ -1,19 +1,12 @@
 //let name = "Ney Hiwerson";
     //name = "o garotao";
     //alert(name)
-    /*const links = {
+    const links = {
       github:"NeyHiwerson",
       youtube : "UCWFhWfv5MqJKRvNCwYbYDtw",
       facebook : "ney.hiwersonmissiasribeiro",
       instagran : "hiwersonmissiasribeiro",
       twitter : "hiwerson"
-    }*/
-    const links = {
-      github:"NeyHiwerson",
-      youtube : "patofuu",
-      facebook : "jonasbrothers",
-      instagran : "tunico e tinoco",
-      twitter : "hiwersongaranhão"
     }
     /*const github = "NeyHiwerson"
     const youtube = "UCWFhWfv5MqJKRvNCwYbYDtw"
